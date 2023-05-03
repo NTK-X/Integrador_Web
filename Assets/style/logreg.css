@@ -1,0 +1,68 @@
+
+/* main {
+    background-image: url(../img/Imagenes_Integrador/bglog.jpg);
+} */
+
+/* * {
+  border: 2px solid black;
+} */
+
+html {
+  background-image: url(../img/Imagenes_Integrador/Juego\ de\ zarcillos\ y\ anillo\ crochet\,\ cristal\ y\ perlas.jpg);
+    
+}
+
+header {
+  background: linear-gradient(to right, #d8cce3, #d265d2);
+  /* outline: 8px ridge #aa32dc99;    */
+  /* position: relative; */
+}
+
+.header__content {
+  background: none;
+}
+
+.categ__content__card {
+  /* border: 2px solid royalblue; */
+  margin-top: 100px;
+  outline: none;
+   /* margin-bottom: 70px; */
+  /* position: static; */
+  align-items: stretch;
+ 
+}
+
+.form__container {
+    /* border: 2px solid lawngreen; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+    width: 90%;
+    /* height: auto; */
+    /* outline: 8px ridge #aa32dc99;  */
+  }
+  
+  .form__input {
+    font-size: 50px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color:#e5a6e3;
+    color:#3a013a;
+    outline: 8px ridge #aa32dc99;    
+    border-radius: 10px;;
+    border: none;
+  }
+
+  footer {
+    background: linear-gradient(to right, #d8cce3, #d265d2);
+    /* outline: 8px ridge #aa32dc99;    */
+    /* position: fixed;
+    bottom: 0; */
+  }
+
+  .footer__content {
+    background: none;
+  }
